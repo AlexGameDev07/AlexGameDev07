@@ -14,10 +14,10 @@
 [![GitHUb](https://img.shields.io/badge/GitHUb-FC6D26?style=for-the-badge&logo=GitHUb&logoColor=white&labelColor=101010)]()
 [![SQL Server](https://img.shields.io/badge/SQLServer-CC2927?style=for-the-badge&logo=MicrosoftSQLServer&logoColor=white&labelColor=101010)]()
 [![Oracle](https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=Oracle&logoColor=white&labelColor=101010)]()
-[![Photoshop](https://img.shields.io/badge/Photoshop-31A8FF?style=for-the-badge&logo=AdobePhotoshop&logoColor=white&labelColor=101010)]()
 [![Wordpress](https://img.shields.io/badge/WordPress-21759B?style=for-the-badge&logo=WordPress&logoColor=white&labelColor=101010)]()
 [![VirtualBox](https://img.shields.io/badge/VirtualBox-183A61?style=for-the-badge&logo=virtualBox&logoColor=white&labelColor=101010)]()
 [![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=Linux&logoColor=white&labelColor=101010)]()
+[![MediBang](https://medibangpaint.com/es/app-download/)]()
 
 ## Logros:
 
