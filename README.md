@@ -1,9 +1,9 @@
-<h1 align="center">✨Hola✨</h1>
-<h2 align="center">Soy Jisus, y te doy la bienvenida a mi github</h2>
-<h3 align="center">Un pequeño entusiasta de Software y creador de dibujos</h3>
+<h1 align="center">✨Muy buenas✨</h1>
+<h2 align="center">Mi nombre es Alejandro Murcia</h2>
+<h3 align="center">Soy un estudiante de desarrollo de software y me apasiona la música🎹🎹.</h3>
 
-<h5 align="center">Aquí encontrarás las herramientas y entornos que desarrollé, procuraré ser conciso y hacer todo lo más fácil e intuitivo para que su uso sea eficiente y efervecente como las burbujitas sí señor, si en algún punto tienes dudas, comentarios o sugerencias no dudes en hacermelo saber en mi red social! 
-<p><sup><sub>Recuerda siempre leer las letras chiquitas jeje</sub></sup></h5>
+<h5 align="center">Aquí presentaré mis proyectos y mi progreso a través de la especialidad de software.
+<p><sup><sub>Aún estoy estudiando por lo que es posible que algunos proyectos sean muy sencillos</sub></sup></h5>
 
 ## Tecnologías:
 
