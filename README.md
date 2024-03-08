@@ -20,9 +20,9 @@
 
 ## Logros:
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=Alex-Dev&theme=dracula&no-frame=true&align=center)](https://github.com/ryo-ma/github-profile-trophy)
+[![trophy](https://github-profile-trophy.vercel.app/?username=Alex_Dev&theme=dracula&no-frame=true&align=center)](https://github.com/ryo-ma/github-profile-trophy)
 
-![Sarthak's stats](https://github-readme-stats.vercel.app/api?username=Alex-Dev&show_icons=true)
+![Sarthak's stats](https://github-readme-stats.vercel.app/api?username=Alex_Dev&show_icons=true)
 
 
 ## Frase:
