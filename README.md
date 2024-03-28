@@ -11,8 +11,10 @@
 [![Bootstrap](https://img.shields.io/badge/Bootstrap-%237952B3?style=for-the-badge&logo=bootstrap&logoColor=white&labelColor=101010)]()
 [![UML](https://img.shields.io/badge/UML-%23FABD14?style=for-the-badge&logo=uml&logoColor=white&labelColor=101010)]()
 [![VisualStudioCode](https://img.shields.io/badge/Visual_Studio_Code-%23007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white&labelColor=101010)]()
+
 [![VisualStudio](https://img.shields.io/badge/Visual_Studio-%235C2D91?style=for-the-badge&logo=visualstudio&logoColor=white&labelColor=101010)]()
 [![C#](https://img.shields.io/badge/C%23-%23512BD4?style=for-the-badge&logo=csharp&logoColor=white&labelColor=101010)]()
+
 [![SQL Server](https://img.shields.io/badge/SQL_Server-%23CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white&labelColor=101010)]()
 [![Kotlin](https://img.shields.io/badge/Kotlin-009848?style=for-the-badge&logo=kotlin&logoColor=white&labelColor=101010)]()
 [![Java](https://img.shields.io/badge/Java-B32629?style=for-the-badge&logo=ImageJ&logoColor=white&labelColor=101010)]()
