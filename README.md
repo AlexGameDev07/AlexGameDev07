@@ -22,7 +22,7 @@
 
 ## Logros:
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=AlexGameDev07&theme=darkhub&no-frame=true&align=center)](https://github.com/ryo-ma/github-profile-trophy)
+[![trophy](https://github-profile-trophy.vercel.app/?username=AlexGameDev07&theme=darkhub&no-frame=true&align=center-ma&margin-w=15)](https://github.com/ryo-ma/github-profile-trophy)
 
 ![Sarthak's stats](https://github-readme-stats.vercel.app/api?username=AlexGameDev07&show_icons=true)
 
