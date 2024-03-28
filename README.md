@@ -7,8 +7,11 @@
 ## Tecnologías:
 [![HTML 5](https://img.shields.io/badge/HTML5-%23E34F26?style=for-the-badge&logo=html5&logoColor=white&labelColor=101010)]()
 [![CSS#](https://img.shields.io/badge/CSS3-%231572B6?style=for-the-badge&logo=css3&logoColor=white&labelColor=101010)]()
-[![JavaScript](https://img.shields.io/badge/Java_Script-F7DF1E?style=for-the-badge&logo=javascript&logoColor=white&labelColor=101010)]()
+[![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=white&labelColor=101010)]()
+[![Bootstrap](https://img.shields.io/badge/Bootstrap-%237952B3?style=for-the-badge&logo=bootstrap&logoColor=white&labelColor=101010)]()
 [![UML](https://img.shields.io/badge/UML-%23FABD14?style=for-the-badge&logo=uml&logoColor=white&labelColor=101010)]()
+[![VisualStudioCode](https://img.shields.io/badge/Visual_Studio_Code-%23007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white&labelColor=101010)]()
+[![VisualStudio](https://img.shields.io/badge/Visual_Studio-%235C2D91?style=for-the-badge&logo=visualstudio&logoColor=white&labelColor=101010)]()
 [![C#](https://img.shields.io/badge/C%23-%23512BD4?style=for-the-badge&logo=csharp&logoColor=white&labelColor=101010)]()
 [![SQL Server](https://img.shields.io/badge/SQL_Server-%23CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white&labelColor=101010)]()
 [![Kotlin](https://img.shields.io/badge/Kotlin-009848?style=for-the-badge&logo=kotlin&logoColor=white&labelColor=101010)]()
