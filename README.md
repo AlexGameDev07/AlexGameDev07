@@ -6,7 +6,7 @@
 <p><sup><sub>Aún estoy estudiando por lo que es posible que algunos proyectos sean muy sencillos</sub></sup></h5>
 
 ## Tecnologías:
-
+![Static Badge](https://img.shields.io/badge/C%23-%23512BD4?style=for-the-badge&logo=csharp&logoColor=white&labelColor=101010)
 [![Kotlin](https://img.shields.io/badge/Kotlin-009848?style=for-the-badge&logo=kotlin&logoColor=white&labelColor=101010)]()
 [![Java](https://img.shields.io/badge/Java-B32629?style=for-the-badge&logo=ImageJ&logoColor=white&labelColor=101010)]()
 [![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=white&labelColor=101010)]()
