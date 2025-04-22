@@ -1,62 +1,62 @@
-<h1 align="center">✨Muy buenas✨</h1>
-<h2 align="center">Mi nombre es Alejandro Murcia</h2>
-<h3 align="center">Soy un estudiante de desarrollo de software y me apasiona la música🎹🎹.</h3>
+<h1 align="center">👑 ¡Bienvenidos a mi Reino de Código! 👑</h1>
+<h2 align="center">Soy Alejandro Murcia, también conocido como <i>AlexDev07</i></h2>
+<h3 align="center">🎓 Estudiante de Desarrollo de Software | 🎵 Amante de la música 🎹</h3>
 
-<h5 align="center">Aquí presentaré mis proyectos y mi progreso a través de la especialidad de "Desarrollo de Software".
-  
-## Tecnologías:
-[![HTML 5](https://img.shields.io/badge/HTML5-%23E34F26?style=for-the-badge&logo=html5&logoColor=white&labelColor=101010)]()
-[![CSS#](https://img.shields.io/badge/CSS3-%231572B6?style=for-the-badge&logo=css3&logoColor=white&labelColor=101010)]()
-[![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=white&labelColor=101010)]()
-[![Bootstrap](https://img.shields.io/badge/Bootstrap-%237952B3?style=for-the-badge&logo=bootstrap&logoColor=white&labelColor=101010)]()
-[![UML](https://img.shields.io/badge/UML-%23FABD14?style=for-the-badge&logo=uml&logoColor=white&labelColor=101010)]()
-[![VisualStudioCode](https://img.shields.io/badge/Visual_Studio_Code-%23007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white&labelColor=101010)]()
+---
 
-[![VisualStudio](https://img.shields.io/badge/Visual_Studio-%235C2D91?style=for-the-badge&logo=visualstudio&logoColor=white&labelColor=101010)]()
-[![C#](https://img.shields.io/badge/C%23-%23512BD4?style=for-the-badge&logo=csharp&logoColor=white&labelColor=101010)]()
+📚 **Sobre mí**  
+Me encuentro en una cruzada académica a través del mundo del software. Este perfil es mi grimorio digital donde registro mis aventuras, proyectos, logros y conocimientos adquiridos.
 
-[![SQL Server](https://img.shields.io/badge/SQL_Server-%23CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white&labelColor=101010)]()
-[![Kotlin](https://img.shields.io/badge/Kotlin-009848?style=for-the-badge&logo=kotlin&logoColor=white&labelColor=101010)]()
-[![Java](https://img.shields.io/badge/Java-B32629?style=for-the-badge&logo=ImageJ&logoColor=white&labelColor=101010)]()
+---
 
-[![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=Git&logoColor=white&labelColor=101010)]()
-[![GitHUb](https://img.shields.io/badge/GitHUb-FC6D26?style=for-the-badge&logo=GitHUb&logoColor=white&labelColor=101010)]()
+## ⚔️ Tecnologías que domino
 
-[![Oracle](https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=Oracle&logoColor=white&labelColor=101010)]()
+<p align="center">
+  <img src="https://img.shields.io/badge/HTML5-%23E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
+  <img src="https://img.shields.io/badge/CSS3-%231572B6?style=for-the-badge&logo=css3&logoColor=white"/>
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Bootstrap-%237952B3?style=for-the-badge&logo=bootstrap&logoColor=white"/>
+  <img src="https://img.shields.io/badge/UML-%23FABD14?style=for-the-badge&logo=uml&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Visual_Studio_Code-%23007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white"/>
+  <img src="https://img.shields.io/badge/C%23-%23512BD4?style=for-the-badge&logo=csharp&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Java-B32629?style=for-the-badge&logo=OpenJDK&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Kotlin-009848?style=for-the-badge&logo=kotlin&logoColor=white"/>
+  <img src="https://img.shields.io/badge/SQL_Server-%23CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=Git&logoColor=white"/>
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=Oracle&logoColor=white"/>
+</p>
 
+---
 
-## Logros:
+## 🏆 Logros y estadísticas
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=AlexGameDev07&theme=dark_lover&no-frame=true&align=center-ma&margin-w=15)](https://github.com/ryo-ma/github-profile-trophy)
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=AlexGameDev07&theme=dark_lover&no-frame=true&row=1&margin-w=15"/>
+</p>
 
-![AlexDev's stats](https://github-readme-stats.vercel.app/api?username=AlexGameDev07&show_icons=true)
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=AlexGameDev07&show_icons=true&theme=radical"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AlexGameDev07&layout=compact&theme=radical"/>
+</p>
 
+---
 
-## Frase:
+## 🎯 Frase que me inspira
 
-<pre>
-                                                     ___
-                                                  ,o88888
-                                               ,o8888888'
-                         ,:o:o:oooo.        ,8O88Pd8888"
-                     ,.::.::o:ooooOoOoO. ,oO8O8Pd888'"
-                   ,.:.::o:ooOoOoOO8O8OOo.8OOPd8O8O"
-                  , ..:.::o:ooOoOOOO8OOOOo.FdO8O8"
-                 , ..:.::o:ooOoOO8O888O8O,COCOO"
-                , . ..:.::o:ooOoOOOO8OOOOCOCO"
-                 . ..:.::o:ooOoOoOO8O8OCCCC"o
-                    . ..:.::o:ooooOoCoCCC"o:o
-                    . ..:.::o:o:,cooooCo"oo:o:
-                 `   . . ..:.:cocoooo"'o:o:::'
-                 .`   . ..::ccccoc"'o:o:o:::'
-                :.:.    ,c:cccc"':.:.:.:.:.'
-              ..:.:"'`::::c:"'..:.:.:.:.:.'
-            ...:.'.:.::::"'    . . . . .'
-           .. . ....:."' `   .  . . ''
-         . . . ...."'
-         .. . ."'                  
-        .
- "La mejor manera de predecir el futuro, es creándolo."
-------------------------------------------------
-                                           
+<pre align="center">
+"La mejor manera de predecir el futuro, es creándolo."
 </pre>
+
+---
+
+## 📬 ¿Te gustaría contactarme?
+
+- 📧 **Correo:** alekeymurcia@gmail.com 
+- 🌟 **Instagram:** https://www.instagram.com/alexdev07/
+- 🎮 **Proyectos personales:** ¡Explora mis repositorios y encuentra magia entre líneas de código!
+
+---
+
+✨ *Gracias por visitar mi perfil. Que el código esté contigo.* ✨
+
