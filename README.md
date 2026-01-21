@@ -1,15 +1,15 @@
-<h1 align="center">👑 ¡Bienvenidos a mi Reino de Código! 👑</h1>
+<h1 align="center">¡Bienvenidos a mi Reino de Código!</h1>
 <h2 align="center">Soy Alejandro Murcia, también conocido como <i>AlexDev07</i></h2>
-<h3 align="center">🎓 Estudiante de Desarrollo de Software | 🎵 Amante de la música 🎹</h3>
+<h3 align="center">Programador Junior | Amante de la música</h3>
 
 ---
 
-📚 **Sobre mí**  
+**Sobre mí**  
 Me encuentro en una cruzada académica a través del mundo del software. Este perfil es mi grimorio digital donde registro mis aventuras, proyectos, logros y conocimientos adquiridos.
 
 ---
 
-## ⚔️ Tecnologías que domino
+## Tecnologías que domino
 
 <div align="center">
 
@@ -31,10 +31,11 @@ Me encuentro en una cruzada académica a través del mundo del software. Este pe
 
 ---
 
-## 🏆 Logros y estadísticas
+## Logros y estadísticas
 
 <p align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=AlexGameDev07&theme=onedark&margin-w=15&no-frame=true&column=4" />
+  <img src="[![trophy](https://github-profile-trophy.vercel.app/?username=AlexGameDev07&theme=onedark&margin-w=15&no-frame=true&column=4)](https://github.com/ryo-ma/github-profile-trophy)" />
 </p>
 
 <p align="center">
