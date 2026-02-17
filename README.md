@@ -95,15 +95,7 @@ grimorio:   Este perfil es mi diario de aventuras en el código
 ## ⏱️ Tiempo de Código (WakaTime)
 
 <!--START_SECTION:waka-->
-<!-- Esta sección se actualiza automáticamente con la acción de WakaTime -->
-<!-- Instrucciones de configuración más abajo 👇 -->
 <!--END_SECTION:waka-->
-
-> 💡 **¿Cómo configurar WakaTime en tu perfil?**
-> 1. Crea una cuenta en [wakatime.com](https://wakatime.com) y obtén tu `API Key`
-> 2. Instala el plugin de WakaTime en tu editor favorito
-> 3. Agrega tu API Key como secreto en tu repo: `WAKATIME_API_KEY`
-> 4. Crea el workflow en `.github/workflows/waka.yml` con [waka-readme](https://github.com/athul/waka-readme)
 
 ---
 
@@ -111,7 +103,7 @@ grimorio:   Este perfil es mi diario de aventuras en el código
 
 <div align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=AlexGameDev07&theme=tokyonight&margin-w=12&no-frame=true&column=4&rank=SECRET,SSS,SS,S,AAA,AA,A,B,C" />
+<img src="https://github-profile-trophy-liard-delta.vercel.app/?username=AlexGameDev07&theme=tokyonight&margin-w=12&no-frame=true&column=4" />
 
 </div>
 
@@ -121,14 +113,14 @@ grimorio:   Este perfil es mi diario de aventuras en el código
 
 <div align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=AlexGameDev07&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true" />
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AlexGameDev07&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" />
+<img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api?username=AlexGameDev07&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true" />
+<img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=AlexGameDev07&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" />
 
 </div>
 
 <div align="center">
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=AlexGameDev07&theme=tokyonight&hide_border=true" />
+<img src="https://streak-stats.demolab.com/?user=AlexGameDev07&theme=tokyonight&hide_border=true" />
 
 </div>
 
@@ -161,7 +153,14 @@ grimorio:   Este perfil es mi diario de aventuras en el código
 
 <div align="center">
 
-[![Spotify](https://novatorem.vercel.app/api/spotify)](https://open.spotify.com)
+<!-- 
+  🎵 Para activar el widget de Spotify necesitas tu propio deploy en Vercel.
+  Pasos: https://github.com/novatorem/novatorem#setup
+  Una vez configurado, reemplaza la URL con la tuya:
+  [![Spotify](https://TU-PROYECTO.vercel.app/api/spotify)](https://open.spotify.com)
+-->
+
+![Spotify](https://img.shields.io/badge/Spotify-Conéctalo_siguiendo_las_instrucciones_del_repo-1ED760?style=for-the-badge&logo=spotify&logoColor=white)
 
 </div>
 
