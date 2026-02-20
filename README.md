@@ -21,23 +21,23 @@
 
 ---
 
-## 🧙‍♂️ Sobre mí
+##  Sobre mí
 
 ```yaml
 nombre:     Alejandro Murcia
 alias:      AlexDev07
 rol:        Programador Junior
-ubicacion:  En algún rincón del universo digital 🌌
-intereses:  [Desarrollo de Software, Música 🎵, Videojuegos 🎮]
-estado:     Siempre aprendiendo... siempre creciendo 🚀
+ubicacion:  En algún rincón del universo digital 
+intereses:  [Desarrollo de Software, Música , Videojuegos ]
+estado:     Siempre aprendiendo... siempre creciendo 
 grimorio:   Este perfil es mi diario de aventuras en el código
 ```
 
 ---
 
-## 🛠️ Arsenal Tecnológico
+##  Arsenal Tecnológico
 
-### 🌐 Frontend & UI
+### Frontend & UI
 <div align="center">
 
 [![HTML5](https://img.shields.io/badge/HTML5-%23E34F26?style=for-the-badge&logo=html5&logoColor=white)](https://developer.mozilla.org/en-US/docs/Web/HTML)
@@ -52,7 +52,7 @@ grimorio:   Este perfil es mi diario de aventuras en el código
 
 </div>
 
-### ⚙️ Backend & Lenguajes
+### Backend & Lenguajes
 <div align="center">
 
 [![C#](https://img.shields.io/badge/C%23-%23512BD4?style=for-the-badge&logo=csharp&logoColor=white)](https://docs.microsoft.com/en-us/dotnet/csharp/)
@@ -64,7 +64,7 @@ grimorio:   Este perfil es mi diario de aventuras en el código
 
 </div>
 
-### 🗄️ Bases de Datos
+###  Bases de Datos
 <div align="center">
 
 [![SQL Server](https://img.shields.io/badge/SQL_Server-%23CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white)](https://www.microsoft.com/en-us/sql-server)
@@ -77,7 +77,7 @@ grimorio:   Este perfil es mi diario de aventuras en el código
 
 </div>
 
-### 🧰 Herramientas & Entornos
+### Herramientas & Entornos
 <div align="center">
 
 [![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)](https://git-scm.com)
@@ -92,14 +92,14 @@ grimorio:   Este perfil es mi diario de aventuras en el código
 
 ---
 
-## ⏱️ Tiempo de Código (WakaTime)
+## Tiempo de Código (WakaTime)
 
 <!--START_SECTION:waka-->
 <!--END_SECTION:waka-->
 
 ---
 
-## 🏆 Logros & Trofeos
+## Logros & Trofeos
 
 <div align="center">
 
@@ -109,7 +109,7 @@ grimorio:   Este perfil es mi diario de aventuras en el código
 
 ---
 
-## 📊 Estadísticas de GitHub
+## Estadísticas de GitHub
 
 <div align="center">
 
@@ -132,7 +132,7 @@ grimorio:   Este perfil es mi diario de aventuras en el código
 
 ---
 
-## 🎯 Frases que me inspiran
+## Frases que me inspiran
 
 <div align="center">
 
@@ -149,7 +149,7 @@ grimorio:   Este perfil es mi diario de aventuras en el código
 
 ---
 
-## 🎵 Escuchando ahora
+## Escuchando ahora
 
 <div align="center">
 
@@ -166,7 +166,7 @@ grimorio:   Este perfil es mi diario de aventuras en el código
 
 ---
 
-## 📬 Contáctame
+## Contáctame
 
 <div align="center">
 
