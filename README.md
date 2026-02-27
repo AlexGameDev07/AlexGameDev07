@@ -152,16 +152,9 @@ grimorio:   Este perfil es mi diario de aventuras en el código
 ## Escuchando ahora
 
 <div align="center">
-
-<!-- 
-  🎵 Para activar el widget de Spotify necesitas tu propio deploy en Vercel.
-  Pasos: https://github.com/novatorem/novatorem#setup
-  Una vez configurado, reemplaza la URL con la tuya:
-  [![Spotify](https://TU-PROYECTO.vercel.app/api/spotify)](https://open.spotify.com)
--->
-
-![Spotify](https://img.shields.io/badge/Spotify-Conéctalo_siguiendo_las_instrucciones_del_repo-1ED760?style=for-the-badge&logo=spotify&logoColor=white)
-
+  <a href="https://open.spotify.com/user/31d6r57mmky3cb74jvagdca42mn4">
+    <img src="https://spotify-recently-played-readme.vercel.app/api?user=31d6r57mmky3cb74jvagdca42mn4&count=7&unique=true" alt="Spotify recently played"  />
+  </a>
 </div>
 
 ---
@@ -182,8 +175,11 @@ grimorio:   Este perfil es mi diario de aventuras en el código
 
 <div align="center">
 
-<!-- Snake animation - requiere GitHub Action para generarse -->
-<img src="https://raw.githubusercontent.com/AlexGameDev07/AlexGameDev07/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" />
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/AlexGameDev07/AlexGameDev07/output/pacman-contribution-graph-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/AlexGameDev07/AlexGameDev07/output/pacman-contribution-graph.svg">
+  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/AlexGameDev07/AlexGameDev07/output/pacman-contribution-graph.svg">
+</picture>
 
 <br/>
 
