@@ -112,16 +112,6 @@ SQL          2 mins                ▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱
 
 ---
 
-## Logros & Trofeos
-
-<div align="center">
-
-<img src="https://github-profile-trophy-liard-delta.vercel.app/?username=AlexGameDev07&theme=tokyonight&margin-w=12&no-frame=true&column=4" />
-
-</div>
-
----
-
 ## Estadísticas de GitHub
 
 <div align="center">
