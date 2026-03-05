@@ -95,6 +95,19 @@ grimorio:   Este perfil es mi diario de aventuras en el código
 ## Tiempo de Código (WakaTime)
 
 <!--START_SECTION:waka-->
+
+```txt
+From: 25 February 2026 - To: 04 March 2026
+
+Total Time: 3 hrs 48 mins
+
+JavaScript   2 hrs                 █████████████░░░░░░░░░░░░   52.23 %
+HTML         52 mins               █████▓░░░░░░░░░░░░░░░░░░░   22.72 %
+Bash         51 mins               █████▓░░░░░░░░░░░░░░░░░░░   22.37 %
+Other        2 mins                ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.09 %
+SQL          2 mins                ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.08 %
+```
+
 <!--END_SECTION:waka-->
 
 ---
