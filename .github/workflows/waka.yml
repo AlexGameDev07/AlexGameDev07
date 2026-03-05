@@ -18,7 +18,7 @@ jobs:
           GH_TOKEN: ${{ secrets.GITHUB_TOKEN }}
           # Opciones de personalización:
           SHOW_TITLE: true
-          BLOCKS: ░▒▓█
+          BLOCKS: ▰▰▰▰▰
           TIME_RANGE: last_7_days
           SHOW_TIME: true
           SHOW_TOTAL: true
