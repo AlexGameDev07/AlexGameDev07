@@ -2,18 +2,22 @@ name: Waka Readme
 
 on:
   schedule:
-    # Se ejecuta todos los días a medianoche
+    # Se ejecuta todos los días a medianoche (UTC)
     - cron: "0 0 * * *"
   workflow_dispatch: # Permite ejecutarlo manualmente desde la pestaña Actions
+
+permissions:
+  contents: write
 
 jobs:
   update-readme:
     name: Update Readme with Waka Stats
     runs-on: ubuntu-latest
     steps:
-      - uses: actions/checkout@v3
       - uses: athul/waka-readme@master
         with:
+          # Desde oct-2026 WakaTime solo acepta un OAuth token personal para leer
+          # estadísticas (https://wakatime.com/oauth). La API key "waka_..." ya no sirve.
           WAKATIME_API_KEY: ${{ secrets.WAKATIME_API_KEY }}
           GH_TOKEN: ${{ secrets.GITHUB_TOKEN }}
           # Opciones de personalización:
