@@ -17,11 +17,11 @@
 </picture>
 
 <p>
-  <a href="https://alexdev07.pages.dev/trabajo/turbochats/"><img src="assets/carta-turbochats.png" width="49%" alt="TurboChats, 2026. Plataforma SaaS: WhatsApp, Instagram, Messenger y el chat del sitio en una sola bandeja, con un agente de IA distinto por canal."></a>
   <a href="https://alexdev07.pages.dev/trabajo/vitanetrg/"><img src="assets/carta-vitanetrg.png" width="49%" alt="VitaNet RG, 2026. Sitio de mi agencia: el tulipán del logo en partículas, un cotizador con propuesta en papel y nuestro Git Flow real."></a>
+  <a href="https://alexdev07.pages.dev/trabajo/conectau/"><img src="assets/carta-conectau.png" width="49%" alt="ConectaU, 2026. Red social universitaria con grafo de amigos, cola de mensajes y pila de deshacer hechos a mano."></a>
 </p>
 <p>
-  <a href="https://alexdev07.pages.dev/trabajo/conectau/"><img src="assets/carta-conectau.png" width="49%" alt="ConectaU, 2026. Red social universitaria con grafo de amigos, cola de mensajes y pila de deshacer hechos a mano."></a>
+  <a href="https://alexdev07.pages.dev/trabajo/turbochats/"><img src="assets/carta-turbochats.png" width="49%" alt="TurboChats, 2026. Plataforma SaaS: WhatsApp, Instagram, Messenger y el chat del sitio en una sola bandeja, con un agente de IA distinto por canal."></a>
   <a href="https://alexdev07.pages.dev/trabajo/appren-d/"><img src="assets/carta-appren-d.png" width="49%" alt="Appren-D, 2025. Plataforma educativa. Primer lugar en Expotécnica 2025."></a>
 </p>
 <p>
