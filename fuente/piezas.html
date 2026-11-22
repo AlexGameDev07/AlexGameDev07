@@ -1,0 +1,146 @@
+<!doctype html>
+<html lang="es">
+<head>
+<meta charset="utf-8">
+<!-- Piezas del README del perfil, con la identidad del portafolio (paleta Camisa 07, Handjet + Geist).
+     render.mjs abre esta página con ?pieza=...&... y captura #lienzo a 2x. -->
+<style>
+  @font-face { font-family: "Handjet"; src: url(handjet.woff2) format("woff2"); font-weight: 100 900; }
+  @font-face { font-family: "Geist"; src: url(geist.woff2) format("woff2"); font-weight: 100 900; }
+  :root { --fondo:#141017; --superficie:#201a24; --tinta:#f5eef0; --tenue:#b9adb4; --acento:#ff4b63; --sobre:#141017; --linea:#3a3040; }
+  * { box-sizing: border-box; margin: 0; }
+  body { background: transparent; font-family: "Geist", sans-serif; color: var(--tinta); -webkit-font-smoothing: antialiased; }
+  #lienzo { display: inline-block; }
+  .titulo { font-family: "Handjet"; font-weight: 750; line-height: .84; letter-spacing: 0; }
+  .etiqueta { font-family: "Handjet"; font-weight: 520; font-size: 21px; line-height: 1.1; letter-spacing: .03em; }
+  .tenue { color: var(--tenue); }
+  .pill { display: inline-flex; align-items: center; border: 1.5px solid var(--linea); border-radius: 999px; padding: 3px 12px; }
+  .punto { width: 10px; height: 10px; border-radius: 50%; background: var(--acento); display: inline-block; box-shadow: 0 0 0 4px #ff4b6333; }
+
+  /* Banner */
+  .banner { width: 1200px; height: 540px; background: var(--fondo); border: 1.5px solid var(--linea); border-radius: 32px; padding: 34px 40px; position: relative; overflow: hidden; }
+  .banner .fila { display: flex; gap: 22px; align-items: center; padding-bottom: 18px; border-bottom: 1.5px solid var(--linea); width: 520px; }
+  .banner .logo { width: 44px; height: 44px; border-radius: 12px; background: var(--tinta); color: var(--fondo); display: grid; place-items: center; font-family: "Geist"; font-weight: 700; font-size: 19px; box-shadow: 0 4px 0 #8d8189; }
+  .banner h1 { font-size: 140px; margin-top: 26px; }
+  .banner h1 span { display: block; }
+  .banner .linea { font-size: 19px; line-height: 1.45; width: 520px; margin-top: 18px; }
+  .banner .pie { display: flex; gap: 10px; margin-top: 18px; }
+  .hueco { position: absolute; right: 40px; top: 48px; width: 560px; height: 443px; border-radius: 22px; background: var(--fondo); }
+
+  /* Títulos de sección (variantes clara/oscura) */
+  .tit { font-size: 150px; padding: 8px 4px 0; white-space: nowrap; }
+  .tit sup { font-family: "Handjet"; font-weight: 520; font-size: 30px; color: var(--acento); vertical-align: top; margin-left: 10px; letter-spacing: .03em; }
+  .tit + .sub { font-size: 22px; margin-top: 14px; padding-left: 4px; max-width: 760px; line-height: 1.4; }
+  body.claro { --tinta:#141017; --tenue:#5c5058; --acento:#d81b3c; }
+
+  /* Carta de proyecto */
+  .carta { width: 600px; height: 760px; background: var(--superficie); border: 1.5px solid var(--linea); border-radius: 28px; padding: 14px; display: flex; flex-direction: column; }
+  .ventana { border-radius: 18px; background: var(--fondo); outline: 1.5px solid var(--linea); overflow: hidden; }
+  .ventana .barra { display: flex; gap: 12px; align-items: center; padding: 9px 16px; border-bottom: 1.5px solid var(--linea); }
+  .ventana .barra i { width: 10px; height: 10px; border-radius: 50%; background: var(--linea); display: inline-block; margin-right: 5px; }
+  .ventana img { display: block; width: 100%; aspect-ratio: 16/10; object-fit: cover; object-position: top; }
+  .texto { padding: 18px 8px 4px; display: flex; flex-direction: column; flex: 1; }
+  .texto .meta { display: flex; justify-content: space-between; }
+  .texto h3 { font-size: 66px; margin-top: 12px; }
+  .texto .premio { align-self: flex-start; background: var(--acento); color: var(--sobre); border-radius: 999px; padding: 3px 12px; margin-top: 10px; }
+  .texto p.res { font-size: 17px; line-height: 1.5; margin-top: 12px; }
+  .cifras { display: grid; grid-template-columns: repeat(3, 1fr); gap: 14px; border-top: 1.5px solid var(--linea); padding-top: 12px; margin-top: auto; }
+  .cifras b { font-family: "Handjet"; font-weight: 750; font-size: 40px; color: var(--acento); display: block; line-height: 1; }
+  .cifras span { font-size: 13.5px; color: var(--tenue); line-height: 1.3; display: block; margin-top: 4px; }
+  .stack { display: flex; flex-wrap: wrap; gap: 6px; margin-top: 14px; }
+  .stack .pill { font-size: 17px; padding: 1px 10px; color: var(--tenue); }
+
+  /* Stack */
+  .caja { width: 1200px; background: var(--superficie); border: 1.5px solid var(--linea); border-radius: 28px; padding: 30px 36px; display: grid; grid-template-columns: 220px 1fr; row-gap: 20px; column-gap: 20px; align-items: start; }
+  .caja h4 { font-family: "Handjet"; font-weight: 750; font-size: 38px; line-height: 1; padding-top: 4px; }
+  .caja .stack { margin-top: 0; gap: 8px; }
+  .caja .stack .pill { font-size: 21px; padding: 4px 14px; color: var(--tinta); background: var(--fondo); }
+  .caja .stack .pill.a { border-color: var(--acento); }
+
+  /* Conceptos */
+  .conceptos { width: 1200px; background: var(--superficie); border: 1.5px solid var(--linea); border-radius: 28px; padding: 26px; }
+  .conceptos .tiras { display: grid; grid-template-columns: repeat(5, 1fr); gap: 12px; margin-top: 18px; }
+  .conceptos figure { border-radius: 14px; overflow: hidden; outline: 1.5px solid var(--linea); background: var(--fondo); }
+  .conceptos figure img { display: block; width: 100%; height: 300px; object-fit: cover; object-position: top; }
+  .conceptos figcaption { padding: 7px 10px; }
+  .conceptos .cab { display: flex; justify-content: space-between; align-items: end; gap: 20px; }
+  .conceptos h3 { font-size: 64px; }
+
+  /* Botones */
+  .boton { display: inline-flex; align-items: center; gap: 12px; height: 60px; padding: 0 28px; border-radius: 999px; font-family: "Geist"; font-weight: 600; font-size: 21px; }
+  .boton.lleno { background: var(--acento); color: var(--sobre); }
+  .boton.borde { background: var(--fondo); color: var(--tinta); border: 1.5px solid var(--linea); }
+  .boton small { font-family: "Handjet"; font-weight: 520; font-size: 21px; opacity: .75; letter-spacing: .03em; }
+</style>
+</head>
+<body>
+<div id="lienzo"></div>
+<script type="module">
+const q = new URLSearchParams(location.search);
+const L = document.getElementById("lienzo");
+const esc = (s) => String(s ?? "").replace(/[&<>]/g, (c) => ({ "&": "&amp;", "<": "&lt;", ">": "&gt;" })[c]);
+const pieza = q.get("pieza");
+if (q.get("tema") === "claro") document.body.classList.add("claro");
+
+if (pieza === "banner") {
+  L.innerHTML = `<div class="banner">
+    <div class="fila"><span class="logo">am</span><span class="etiqueta">AlexDev07</span><span class="etiqueta tenue" style="margin-left:auto;display:flex;gap:10px;align-items:center"><i class="punto"></i>Disponible para proyectos</span></div>
+    <h1 class="titulo"><span>Alejandro</span><span>Murcia</span></h1>
+    <p class="linea tenue">Construyo sitios que se recuerdan, CRMs en tiempo real y agentes de IA que atienden por WhatsApp.</p>
+    <div class="pie"><span class="pill etiqueta">Desarrollador full stack</span><span class="pill etiqueta">San Salvador, El Salvador</span></div>
+    <div class="hueco" id="hueco"></div></div>`;
+}
+
+if (pieza === "titulo") {
+  L.innerHTML = `<div class="titulo tit">${esc(q.get("t"))}${q.get("n") ? `<sup>(${esc(q.get("n"))})</sup>` : ""}</div>${q.get("sub") ? `<p class="sub tenue">${esc(q.get("sub"))}</p>` : ""}`;
+}
+
+if (pieza === "carta") {
+  const ps = window.__PS;
+  const i = ps.findIndex((p) => p.slug === q.get("slug")); const p = ps[i];
+  const img = p.slug === "turbochats" ? "img/turbochats.png" : `img/${p.slug}.webp`;
+  const host = { vitanetrg: "vitanetrg.com", conectau: "landing.conectau.workers.dev", "wii-gamepad": "github.com/AlexGameDev07/wii-gamepad", turbochats: "recreación ilustrativa" }[p.slug] || p.nombre.toLowerCase();
+  const n = String(i + 1).padStart(2, "0"), tot = String(ps.length).padStart(2, "0");
+  L.innerHTML = `<div class="carta">
+    <div class="ventana"><div class="barra"><span><i></i><i></i><i></i></span><span class="etiqueta tenue">${esc(host)}</span></div><img src="${img}"></div>
+    <div class="texto">
+      <div class="meta etiqueta tenue"><span>${n} / ${tot}</span><span>${p.anio}</span></div>
+      <h3 class="titulo">${esc(p.nombre)}</h3>
+      <div class="etiqueta tenue" style="margin-top:6px">${esc(p.tipo)}${p.cliente ? ", " + esc(p.cliente) : ""}</div>
+      ${p.premio ? `<span class="etiqueta premio">${esc(p.premio)}</span>` : ""}
+      <p class="res">${esc(p.resumen)}</p>
+      <div class="stack">${p.stack.slice(0, 5).map((s) => `<span class="pill etiqueta">${esc(s)}</span>`).join("")}${p.stack.length > 5 ? `<span class="etiqueta tenue" style="padding:1px 4px">+${p.stack.length - 5}</span>` : ""}</div>
+      <div class="cifras" style="margin-top:16px">${p.cifras.slice(0, 3).map((c) => `<div><b>${esc(c.valor)}</b><span>${esc(c.texto)}</span></div>`).join("")}</div>
+    </div></div>`;
+}
+
+if (pieza === "stack") {
+  const G = [
+    ["Lenguajes", ["JavaScript", "TypeScript", "Python", "Kotlin", "Java", "C#", "SQL"]],
+    ["Frontend", ["React", "Vite", "Tailwind CSS", "GSAP", "Three.js", "Motion", "WordPress"]],
+    ["Backend", ["Node.js", "Express", "APIs REST", "Socket.io", "JWT", "Cloudflare Workers"]],
+    ["Datos", ["PostgreSQL / Supabase", "MongoDB", "SQL Server", "Oracle", "Firebase"]],
+    ["IA y bots", ["n8n", "OpenAI", "WhatsApp Cloud API", "Meta Graph API"]],
+    ["Móvil", ["Android (Kotlin)", "React Native", "PWA + APK"]],
+  ];
+  const fuertes = new Set(["React", "Node.js", "PostgreSQL / Supabase", "n8n", "GSAP", "Express"]);
+  L.innerHTML = `<div class="caja">${G.map(([t, xs]) => `<h4>${t}</h4><div class="stack">${xs.map((x) => `<span class="pill etiqueta ${fuertes.has(x) ? "a" : ""}">${x}</span>`).join("")}</div>`).join("")}</div>`;
+}
+
+if (pieza === "conceptos") {
+  const C = [["arrebol-cafe", "Arrebol Café"], ["casa-neblina", "Casa Neblina"], ["taller-testigo", "Taller Testigo"], ["torta-brava", "Torta Brava"], ["pupuseria-la-hoja", "La Hoja Pupusería"]];
+  L.innerHTML = `<div class="conceptos"><div class="cab"><h3 class="titulo">Así podría verse tu negocio</h3><p class="tenue" style="font-size:19px;line-height:1.45;max-width:420px">Diez conceptos para negocios de San Salvador. Cada uno con algo que solo tiene sentido para ese negocio.</p></div>
+    <div class="tiras">${C.map(([s, n]) => `<figure><img src="img/${s}.webp"><figcaption class="etiqueta">${n}</figcaption></figure>`).join("")}</div></div>`;
+}
+
+if (pieza === "boton") {
+  L.innerHTML = `<span class="boton ${q.get("v") || "borde"}">${esc(q.get("t"))}${q.get("s") ? `<small>${esc(q.get("s"))}</small>` : ""}</span>`;
+}
+await document.fonts.ready;
+await Promise.all([...document.images].map((i) => i.complete ? 0 : new Promise((r) => (i.onload = i.onerror = r))));
+const h = document.getElementById("hueco");
+window.__hueco = h ? (({ x, y, width, height }) => ({ x, y, width, height }))(h.getBoundingClientRect()) : null;
+window.__listo = true;
+</script>
+</body>
+</html>

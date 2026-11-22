@@ -1,187 +1,58 @@
-<div align="center">
-
-<!-- Animated Banner -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:1a1a2e,100:16213e&height=200&section=header&text=AlexDev07&fontSize=80&fontColor=58a6ff&animation=fadeIn&fontAlignY=38&desc=Alejandro%20Murcia%20%7C%20Programador%20Junior&descAlignY=60&descSize=18&descColor=8b949e" />
-
-<!-- Typing animation -->
-<a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=600&size=22&pause=1000&color=58A6FF&center=true&vCenter=true&width=600&lines=Bienvenido+a+mi+reino+de+c%C3%B3digo;Programador+Junior+en+formaci%C3%B3n;Amante+de+la+m%C3%BAsica;%22El+c%C3%B3digo+es+poesia+que+ejecuta%22" alt="Typing SVG" />
+<a href="https://alexdev07.pages.dev">
+  <img src="assets/banner.webp" width="100%" alt="Alejandro Murcia, desarrollador full stack en San Salvador. A la derecha, mi personaje en pixel art camina entre piedras con el nombre de cada tecnología y enciende un portal.">
 </a>
 
-<br/>
+<p align="center">
+  <a href="https://alexdev07.pages.dev"><img src="assets/b-portafolio.png" height="40" alt="Ver el portafolio: alexdev07.pages.dev"></a>
+  <a href="https://www.linkedin.com/in/alejandro-murcia-dev"><img src="assets/b-linkedin.png" height="40" alt="LinkedIn"></a>
+  <a href="https://alexdev07.pages.dev/cv/CV_Hector_Murcia_ES.pdf"><img src="assets/b-cv.png" height="40" alt="CV en PDF"></a>
+  <a href="mailto:alejandro.murcia.dev@gmail.com"><img src="assets/b-correo.png" height="40" alt="Correo"></a>
+</p>
 
-<!-- Profile views & followers badges -->
-<img src="https://komarev.com/ghpvc/?username=AlexGameDev07&style=for-the-badge&color=0e75b6&label=VISITAS+AL+PERFIL" />
-&nbsp;
-<a href="https://github.com/AlexGameDev07?tab=followers">
-  <img src="https://img.shields.io/github/followers/AlexGameDev07?style=for-the-badge&color=58a6ff&labelColor=0d1117&label=SEGUIDORES" />
-</a>
-
-</div>
-
----
-
-##  Sobre mí
-
-```yaml
-nombre:     Alejandro Murcia
-alias:      AlexDev07
-rol:        Programador Junior
-ubicacion:  En algún rincón del universo digital 
-intereses:  [Desarrollo de Software, Música , Videojuegos ]
-estado:     Siempre aprendiendo... siempre creciendo 
-grimorio:   Este perfil es mi diario de aventuras en el código
-```
-
----
-
-##  Arsenal Tecnológico
-
-### Frontend & UI
-<div align="center">
-
-[![HTML5](https://img.shields.io/badge/HTML5-%23E34F26?style=for-the-badge&logo=html5&logoColor=white)](https://developer.mozilla.org/en-US/docs/Web/HTML)
-[![CSS3](https://img.shields.io/badge/CSS3-%231572B6?style=for-the-badge&logo=css3&logoColor=white)](https://developer.mozilla.org/en-US/docs/Web/CSS)
-[![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
-[![Bootstrap](https://img.shields.io/badge/Bootstrap-%237952B3?style=for-the-badge&logo=bootstrap&logoColor=white)](https://getbootstrap.com)
-[![TailwindCSS](https://img.shields.io/badge/Tailwind_CSS-%2306B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white)](https://tailwindcss.com)
-[![React](https://img.shields.io/badge/React-%2361DAFB?style=for-the-badge&logo=react&logoColor=black)](https://react.dev)
-[![React Native](https://img.shields.io/badge/React_Native-%2361DAFB?style=for-the-badge&logo=react&logoColor=black)](https://reactnative.dev)
-[![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)](https://nextjs.org)
-[![Figma](https://img.shields.io/badge/Figma-%23F24E1E?style=for-the-badge&logo=figma&logoColor=white)](https://figma.com)
-
-</div>
-
-### Backend & Lenguajes
-<div align="center">
-
-[![C#](https://img.shields.io/badge/C%23-%23512BD4?style=for-the-badge&logo=csharp&logoColor=white)](https://docs.microsoft.com/en-us/dotnet/csharp/)
-[![.NET](https://img.shields.io/badge/.NET-%23512BD4?style=for-the-badge&logo=dotnet&logoColor=white)](https://dotnet.microsoft.com)
-[![Java](https://img.shields.io/badge/Java-%23ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)](https://www.java.com)
-[![Kotlin](https://img.shields.io/badge/Kotlin-%237F52FF?style=for-the-badge&logo=kotlin&logoColor=white)](https://kotlinlang.org)
-[![Node.js](https://img.shields.io/badge/Node.js-%23339933?style=for-the-badge&logo=nodedotjs&logoColor=white)](https://nodejs.org)
-[![Express](https://img.shields.io/badge/Express-%23000000?style=for-the-badge&logo=express&logoColor=white)](https://expressjs.com)
-
-</div>
-
-###  Bases de Datos
-<div align="center">
-
-[![SQL Server](https://img.shields.io/badge/SQL_Server-%23CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white)](https://www.microsoft.com/en-us/sql-server)
-[![Oracle](https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white)](https://www.oracle.com/database/)
-[![MySQL](https://img.shields.io/badge/MySQL-%234479A1?style=for-the-badge&logo=mysql&logoColor=white)](https://www.mysql.com)
-[![PostgreSQL](https://img.shields.io/badge/PostgreSQL-%234169E1?style=for-the-badge&logo=postgresql&logoColor=white)](https://www.postgresql.org)
-[![MongoDB](https://img.shields.io/badge/MongoDB-%2347A248?style=for-the-badge&logo=mongodb&logoColor=white)](https://www.mongodb.com)
-[![Firebase](https://img.shields.io/badge/Firebase-%23DD2C00?style=for-the-badge&logo=firebase&logoColor=white)](https://firebase.google.com)
-[![Supabase](https://img.shields.io/badge/Supabase-%233ECF8E?style=for-the-badge&logo=supabase&logoColor=white)](https://supabase.com)
-
-</div>
-
-### Herramientas & Entornos
-<div align="center">
-
-[![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)](https://git-scm.com)
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/AlexGameDev07)
-[![VS Code](https://img.shields.io/badge/VS_Code-%23007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)](https://code.visualstudio.com)
-[![Visual Studio](https://img.shields.io/badge/Visual_Studio-%235C2D91?style=for-the-badge&logo=visualstudio&logoColor=white)](https://visualstudio.microsoft.com)
-[![NetBeans](https://img.shields.io/badge/NetBeans-%231B6AC6?style=for-the-badge&logo=apachenetbeanside&logoColor=white)](https://netbeans.apache.org)
-[![Postman](https://img.shields.io/badge/Postman-%23FF6C37?style=for-the-badge&logo=postman&logoColor=white)](https://www.postman.com)
-[![UML](https://img.shields.io/badge/UML-%23FABD14?style=for-the-badge&logo=diagrams.net&logoColor=black)](https://en.wikipedia.org/wiki/Unified_Modeling_Language)
-
-</div>
-
----
-
-## Tiempo de Código (WakaTime)
-
-<!--START_SECTION:waka-->
-
-```txt
-From: 14 November 2026 - To: 21 November 2026
-
-Total Time: 0 secs
-
-No activity tracked
-```
-
-<!--END_SECTION:waka-->
-
----
-
-## Estadísticas de GitHub
-
-<div align="center">
-
-<img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api?username=AlexGameDev07&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true" />
-<img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=AlexGameDev07&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" />
-
-</div>
-
-<div align="center">
-
-<img src="https://streak-stats.demolab.com/?user=AlexGameDev07&theme=tokyonight&hide_border=true" />
-
-</div>
-
-<div align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=AlexGameDev07&theme=tokyo-night&hide_border=true&area=true" />
-
-</div>
-
----
-
-## Frases que me inspiran
-
-<div align="center">
-
-> *"La mejor manera de predecir el futuro, es creándolo."*
-
-> *"Sonreiré, aun cuando el dulce beso de la muerte me robe el aliento,*
-> *pues mi alma danzará entre las sombras del infinito."*
-
-> *"Any fool can write code that a computer can understand.*
-> *Good programmers write code that humans can understand."*
-> — **Martin Fowler**
-
-</div>
-
----
-
-## Escuchando ahora
-
-<div align="center">
-  <a href="https://open.spotify.com/user/31d6r57mmky3cb74jvagdca42mn4">
-    <img src="https://spotify-recently-played-readme.vercel.app/api?user=31d6r57mmky3cb74jvagdca42mn4&count=7&unique=true" alt="Spotify recently played"  />
-  </a>
-</div>
-
----
-
-## Contáctame
-
-<div align="center">
-
-[![Email](https://img.shields.io/badge/Email-alekeymurcia%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:alekeymurcia@gmail.com)
-&nbsp;
-[![Instagram](https://img.shields.io/badge/Instagram-%40alexdev07-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/alexdev07/)
-&nbsp;
-[![GitHub](https://img.shields.io/badge/GitHub-AlexGameDev07-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/AlexGameDev07)
-
-</div>
-
----
-
-<div align="center">
+<br>
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/AlexGameDev07/AlexGameDev07/output/pacman-contribution-graph-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/AlexGameDev07/AlexGameDev07/output/pacman-contribution-graph.svg">
-  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/AlexGameDev07/AlexGameDev07/output/pacman-contribution-graph.svg">
+  <source media="(prefers-color-scheme: dark)" srcset="assets/t-trabajo-oscuro.png">
+  <img src="assets/t-trabajo-claro.png" height="150" alt="Trabajo (06). Lo que construí para empresas, para mi agencia y para la U.">
 </picture>
 
-<br/>
+<p>
+  <a href="https://alexdev07.pages.dev/trabajo/turbochats/"><img src="assets/carta-turbochats.png" width="49%" alt="TurboChats, 2026. Plataforma SaaS: WhatsApp, Instagram, Messenger y el chat del sitio en una sola bandeja, con un agente de IA distinto por canal."></a>
+  <a href="https://alexdev07.pages.dev/trabajo/vitanetrg/"><img src="assets/carta-vitanetrg.png" width="49%" alt="VitaNet RG, 2026. Sitio de mi agencia: el tulipán del logo en partículas, un cotizador con propuesta en papel y nuestro Git Flow real."></a>
+</p>
+<p>
+  <a href="https://alexdev07.pages.dev/trabajo/conectau/"><img src="assets/carta-conectau.png" width="49%" alt="ConectaU, 2026. Red social universitaria con grafo de amigos, cola de mensajes y pila de deshacer hechos a mano."></a>
+  <a href="https://alexdev07.pages.dev/trabajo/appren-d/"><img src="assets/carta-appren-d.png" width="49%" alt="Appren-D, 2025. Plataforma educativa. Primer lugar en Expotécnica 2025."></a>
+</p>
+<p>
+  <a href="https://github.com/AlexGameDev07/wii-gamepad"><img src="assets/carta-wii-gamepad.png" width="49%" alt="wii-gamepad, 2026. Convierte un Wiimote en un mando de Xbox 360 en Linux."></a>
+  <a href="https://alexdev07.pages.dev/trabajo/deltamedic/"><img src="assets/carta-deltamedic.png" width="49%" alt="DeltaMedic, 2024. Citas médicas con app Android, sistema de escritorio y base Oracle. Primer lugar en Expotécnica 2024."></a>
+</p>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:16213e,50:1a1a2e,100:0d1117&height=120&section=footer&text=Que+el+c%C3%B3digo+est%C3%A9+contigo+%E2%9C%A8&fontSize=20&fontColor=58a6ff&animation=twinkling" />
+<a href="https://alexdev07.pages.dev/#destacados">
+  <img src="assets/conceptos.png" width="100%" alt="Así podría verse tu negocio: diez conceptos de sitios para negocios de San Salvador, como Arrebol Café, Casa Neblina, Taller Testigo, Torta Brava y La Hoja Pupusería.">
+</a>
 
-</div>
+<br><br>
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="assets/t-stack-oscuro.png">
+  <img src="assets/t-stack-claro.png" height="110" alt="Stack">
+</picture>
+
+<img src="assets/stack.png" width="100%" alt="Lenguajes: JavaScript, TypeScript, Python, Kotlin, Java, C#, SQL. Frontend: React, Vite, Tailwind CSS, GSAP, Three.js, Motion, WordPress. Backend: Node.js, Express, APIs REST, Socket.io, JWT, Cloudflare Workers. Datos: PostgreSQL y Supabase, MongoDB, SQL Server, Oracle, Firebase. IA y bots: n8n, OpenAI, WhatsApp Cloud API, Meta Graph API. Móvil: Android con Kotlin, React Native, PWA y APK.">
+
+<br><br>
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="assets/t-hablemos-oscuro.png">
+  <img src="assets/t-hablemos-claro.png" height="150" alt="¿Hablamos? Sitios, CRMs, automatizaciones y agentes de IA. Respondo en español o en inglés.">
+</picture>
+
+<p>
+  <a href="https://alexdev07.pages.dev"><img src="assets/b-portafolio.png" height="40" alt="Ver el portafolio: alexdev07.pages.dev"></a>
+  <a href="https://www.linkedin.com/in/alejandro-murcia-dev"><img src="assets/b-linkedin.png" height="40" alt="LinkedIn"></a>
+  <a href="mailto:alejandro.murcia.dev@gmail.com"><img src="assets/b-correo.png" height="40" alt="Correo"></a>
+</p>
+
+<sub>Hecho pixel a pixel, igual que el portafolio. Las piezas se generan desde <code>fuente/</code> con <code>node fuente/render.mjs</code>.</sub>

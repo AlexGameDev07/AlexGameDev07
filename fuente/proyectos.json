@@ -1,0 +1,201 @@
+[
+ {
+  "slug": "vitanetrg",
+  "nombre": "VitaNet RG",
+  "anio": "2026",
+  "tipo": "Sitio de la agencia",
+  "cliente": "Mi agencia (cofundador)",
+  "resumen": "El tulipán del logo en partículas que florece desde el suelo, un cotizador con propuesta en papel y nuestro Git Flow real como proceso.",
+  "stack": [
+   "React",
+   "GSAP",
+   "Three.js",
+   "Lenis",
+   "Motion",
+   "Tailwind",
+   "Cloudflare Pages",
+   "Express",
+   "Brevo"
+  ],
+  "cifras": [
+   {
+    "valor": "33→86",
+    "texto": "Lighthouse en 3G"
+   },
+   {
+    "valor": "1.8 s",
+    "texto": "LCP en un G35"
+   },
+   {
+    "valor": "61/66",
+    "texto": "commits míos"
+   }
+  ],
+  "media": true
+ },
+ {
+  "slug": "conectau",
+  "nombre": "ConectaU",
+  "anio": "2026",
+  "tipo": "Red social universitaria",
+  "cliente": "Universidad Francisco Gavidia",
+  "resumen": "Una red social para estudiantes con las estructuras de datos hechas a mano: grafo de amigos, cola de mensajes y pila de deshacer.",
+  "stack": [
+   "React",
+   "TanStack Query",
+   "Supabase",
+   "Postgres",
+   "Express",
+   "Cloudflare Workers",
+   "Web Push",
+   "Three.js",
+   "PWA + APK"
+  ],
+  "cifras": [
+   {
+    "valor": "233",
+    "texto": "commits"
+   },
+   {
+    "valor": "17",
+    "texto": "migraciones SQL"
+   },
+   {
+    "valor": "1.19",
+    "texto": "versión final"
+   }
+  ],
+  "media": true
+ },
+ {
+  "slug": "turbochats",
+  "nombre": "TurboChats",
+  "anio": "2026",
+  "tipo": "Plataforma SaaS",
+  "resumen": "WhatsApp, Instagram, Messenger y el chat del sitio en una sola bandeja, con un agente de IA distinto por canal.",
+  "stack": [
+   "React",
+   "Vite",
+   "Tailwind",
+   "Node.js",
+   "Express",
+   "Supabase",
+   "PL/pgSQL",
+   "n8n",
+   "Meta Graph API",
+   "Recharts"
+  ],
+  "cifras": [
+   {
+    "valor": "191",
+    "texto": "commits, único autor"
+   },
+   {
+    "valor": "4",
+    "texto": "canales en una bandeja"
+   },
+   {
+    "valor": "3",
+    "texto": "roles por negocio"
+   }
+  ],
+  "media": false
+ },
+ {
+  "slug": "appren-d",
+  "nombre": "Appren-D",
+  "anio": "2025",
+  "tipo": "Plataforma educativa",
+  "resumen": "Tareas, exámenes en línea y calendario para colegios, con un asistente de IA. Para una editorial real.",
+  "stack": [
+   "Node.js",
+   "Express",
+   "MongoDB",
+   "JWT",
+   "Cloudinary",
+   "Gemini",
+   "React",
+   "React Native (Expo)"
+  ],
+  "cifras": [
+   {
+    "valor": "1.º",
+    "texto": "Expotécnica 2025"
+   },
+   {
+    "valor": "5",
+    "texto": "personas en el equipo"
+   },
+   {
+    "valor": "8",
+    "texto": "meses"
+   }
+  ],
+  "premio": "1.er lugar · Expotécnica 2025",
+  "media": true
+ },
+ {
+  "slug": "wii-gamepad",
+  "nombre": "wii-gamepad",
+  "anio": "2026",
+  "tipo": "Herramienta para Linux",
+  "cliente": "Código abierto",
+  "resumen": "Convierte un Wiimote (con o sin Nunchuk) en un mando de Xbox 360 en Linux: perfiles por juego, giroscopio, vibración y modo mouse.",
+  "stack": [
+   "Python",
+   "GTK4",
+   "libadwaita",
+   "evdev",
+   "uinput",
+   "hid-wiimote",
+   "BlueZ",
+   "systemd"
+  ],
+  "cifras": [
+   {
+    "valor": "4",
+    "texto": "Wiimotes a la vez"
+   },
+   {
+    "valor": "10+",
+    "texto": "distros con instalador"
+   },
+   {
+    "valor": "0",
+    "texto": "reinicios al cambiar de perfil"
+   }
+  ],
+  "media": true
+ },
+ {
+  "slug": "deltamedic",
+  "nombre": "DeltaMedic",
+  "anio": "2024",
+  "tipo": "Citas médicas",
+  "cliente": "Instituto Técnico Ricaldone",
+  "resumen": "Red de hospitales y clínicas con app Android, sistema de escritorio y base Oracle.",
+  "stack": [
+   "Kotlin",
+   "Java",
+   "Oracle PL/SQL",
+   "Firebase",
+   "Google Maps"
+  ],
+  "cifras": [
+   {
+    "valor": "1.º",
+    "texto": "Expotécnica 2024"
+   },
+   {
+    "valor": "143",
+    "texto": "commits en la app"
+   },
+   {
+    "valor": "23",
+    "texto": "tablas en Oracle"
+   }
+  ],
+  "premio": "1.er lugar · Expotécnica 2024",
+  "media": true
+ }
+]
